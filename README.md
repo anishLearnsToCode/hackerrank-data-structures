@@ -29,7 +29,17 @@ which consists of both
 and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 
 The Data Structures Domain is further Divided into the following sub-domain. All
-problems in this domain are solved with the Java programming language.
+problems in this domain have been solved with the Java programming language.
+
+I have also solved other domains on HackerRank that can be viewed at:
+
+| Domain | Solutions Repository Link |
+|--------|---------------------------|
+| [Algorithms](https://www.hackerrank.com/domains/algorithms) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-algorithms) |
+| [Data Structures](https://www.hackerrank.com/domains/data-structures) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-data-structures) |
+| [Mathematics](https://www.hackerrank.com/domains/mathematics) | [Solutions Repository]() |
+| [Java](https://www.hackerrank.com/domains/java) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-java) |
+| [SQL](https://www.hackerrank.com/domains/sql) |  |
 
 ## Arrays 
 | Problem | Difficulty Level | Solution Link |
