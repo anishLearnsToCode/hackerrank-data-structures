@@ -41,7 +41,9 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Java](https://www.hackerrank.com/domains/java) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-java) |
 | [SQL](https://www.hackerrank.com/domains/sql) |  |
 
-## Arrays 
+## Sub Domains & Problems (+Solutions) in the Data Structures Domain
+ 
+### Arrays 
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | Easy | [Solution]() |
@@ -51,7 +53,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Sparse Arrays](https://www.hackerrank.com/challenges/arrays-ds) | Medium | [Solution]() |
 | [Array Manipulation](https://www.hackerrank.com/challenges/crush) | Hard | [Solution]() |
 
-## Linked Lists
+### Linked Lists
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | Easy | [Solution]() |
@@ -70,7 +72,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Inserting a Node Into a Sorted Double Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/Linked%20List/src/InsertInSortedDoublyLL.java) |
 | [Reverse a Doubly Linked List](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/Linked%20List/src/ReverseDoublyLL.java) |
 
-## Trees
+### Trees
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal) | Easy | |
@@ -92,7 +94,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Array Pairs](https://www.hackerrank.com/challenges/array-pairs) | Advanced ||
 
 
-## Balanced Trees
+### Balanced Trees
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree) | Medium | |
@@ -100,7 +102,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Median Updates](https://www.hackerrank.com/challenges/median) | Hard | |
 
 
-## Stacks
+### Stacks
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Maximum Element](https://www.hackerrank.com/challenges/maximum-element) | Easy | |
@@ -114,7 +116,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [AND xor OR](https://www.hackerrank.com/challenges/and-xor-or) | Hard | |
 
 
-## Queues
+### Queues
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Queue Using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks) | Medium | |
@@ -124,7 +126,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Queries with Fixed Length](https://www.hackerrank.com/challenges/queries-with-fixed-length) | Hard | |
 
 
-## Heap 
+### Heap 
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [QHEAP1](https://www.hackerrank.com/challenges/qheap1) | Easy | |
@@ -133,7 +135,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Minimum Average Wait Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time) | hard | |
 
 
-## Disjoint Set
+### Disjoint Set
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Components In A Graph](https://www.hackerrank.com/challenges/components-in-graph) | Medium | |
@@ -142,7 +144,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Merging Communities](https://www.hackerrank.com/challenges/merging-communities) | Hard | |
 
 
-## Multiple Choice 
+### Multiple Choice 
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Data Structures MCQ1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees) | Multiple Choice Question | |
@@ -150,14 +152,14 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Data Structures MCQ3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1) | Multiple Choice Question | |
 
 
-## Trie
+### Trie
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Contacts]() | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/trie/src/Contacts.java) |
 | [No Prefix Set](https://www.hackerrank.com/challenges/no-prefix-set) | Hard | |
 
 
-## Advanced
+### Advanced
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Kindergarten Adventures](https://www.hackerrank.com/challenges/kindergarten-adventures) | Medium | |
