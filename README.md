@@ -126,6 +126,10 @@ problems in this domain are solved with the Java programming language.
 ## Disjoint Set
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
+| [Components In A Graph](https://www.hackerrank.com/challenges/components-in-graph) | Medium | |
+| [Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree) | Hard | |
+| [Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries) | Hard | |
+| [Merging Communities](https://www.hackerrank.com/challenges/merging-communities) | Hard | |
 
 
 ## Multiple Choice 
