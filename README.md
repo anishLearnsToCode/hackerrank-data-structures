@@ -63,6 +63,23 @@ problems in this domain are solved with the Java programming language.
 ## Trees
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
+| [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal) | Easy | |
+| [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal) | Easy | |
+| [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal) | Easy | |
+| [Tree: Height of Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) | Easy | |
+| [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal) | Easy | |
+| [Binary Search Tree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion) | Easy | |
+| [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding) | Medium | |
+| [Binary Searcj Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) | Easy | |
+| [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo) | Medium | |
+| [Is There a Binary Search Tree](https://www.hackerrank.com/challenges/is-binary-search-tree) | Medium | |
+| [Tree: Top View](https://www.hackerrank.com/challenges/tree-top-view) | Easy | |
+| [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree) | Advanced | |
+| [Square Ten Tree](https://www.hackerrank.com/challenges/square-ten-tree) | Hard ||
+| [Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest) | Hard ||
+| [Jenny's Subtrees](https://www.hackerrank.com/challenges/jenny-subtrees) | Hard ||
+| [Tree Coordinates](https://www.hackerrank.com/challenges/tree-coordinates) | Expert ||
+| [Array Pairs](https://www.hackerrank.com/challenges/array-pairs) | Advanced ||
 
 
 ## Balanced Trees
