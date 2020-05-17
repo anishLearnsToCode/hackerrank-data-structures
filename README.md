@@ -183,10 +183,23 @@ problems in this domain are solved with the Java programming language.
 | [Swaps and Sums](https://www.hackerrank.com/challenges/swaps-and-sum) | Advanced |
 | [Arithmetic Progressions](https://www.hackerrank.com/challenges/arithmetic-progressions) | Advanced |
 | [Coolguy And Two Subsequences](https://www.hackerrank.com/challenges/coolguy-and-two-subsequences) | Advanced |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
-| []() | |
+| [White Falcon and Tree](https://www.hackerrank.com/challenges/white-falcon-and-tree) | Hard |
+| [Subtrees and Paths](https://www.hackerrank.com/challenges/subtrees-and-paths) | Advanced |
+| [Triplets](https://www.hackerrank.com/challenges/triplets) | Advanced |
+| [Beautiful Segments](https://www.hackerrank.com/challenges/beautiful-segments) | Expert | |
+| [Divisibility](https://www.hackerrank.com/challenges/ab0) | Expert |
+| [BST Maintenance](https://www.hackerrank.com/challenges/bst-maintenance) | Advanced |
+| [Find Maximum Index Product](https://www.hackerrank.com/challenges/find-maximum-index-product) | Medium |
+| [Taxicab Driver's Problem](https://www.hackerrank.com/challenges/taxicab-drivers-problem) | Advanced |
+| [Jaggu Playing With Balloons](https://www.hackerrank.com/challenges/jagia-playing-with-numbers) | Advanced |
+| [Dynamic Summation](https://www.hackerrank.com/challenges/dynamic-summation) | Hard |
+| [Two Array Problem](https://www.hackerrank.com/challenges/weird-queries) | Hard | |
+| [Rooted Tree](https://www.hackerrank.com/challenges/rooted-tree) | Hard | |
+| [The Crazy Helix](https://www.hackerrank.com/challenges/helix) | Advanced | |
+| [Network Administration](https://www.hackerrank.com/challenges/net-admin) | Hard | |
+| [Easy Addition](https://www.hackerrank.com/challenges/easy-addition) | Expert | |
+| [Find The Permutation]() | Expert | |
+| [Company Retreat](https://www.hackerrank.com/challenges/company-retreat) | Advanced  | |
+| [Box Operations](https://www.hackerrank.com/challenges/box-operations) | Expert | |
+| [Max Transform](https://www.hackerrank.com/challenges/max-transform) | Expert | |
+| [Array and Queries](https://www.hackerrank.com/challenges/array-and-queries-1) | Hard | |
