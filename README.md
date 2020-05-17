@@ -135,13 +135,58 @@ problems in this domain are solved with the Java programming language.
 ## Multiple Choice 
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
+| [Data Structures MCQ1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees) | Multiple Choice Question | |
+| [Data Structures MCQ2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures) | Multiple Choice Question | |
+| [Data Structures MCQ3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1) | Multiple Choice Question | |
 
 
 ## Trie
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
+| [Contacts]() | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/trie/src/Contacts.java) |
+| [No Prefix Set](https://www.hackerrank.com/challenges/no-prefix-set) | Hard | |
 
 
 ## Advanced
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
+| [Kindergarten Adventures](https://www.hackerrank.com/challenges/kindergarten-adventures) | Medium | |
+| [Mr. X and his Shots](https://www.hackerrank.com/challenges/x-and-his-shots) | Medium | |
+| [Cube Summation](https://www.hackerrank.com/challenges/cube-summation) | Hard | |
+| [Direct Connections](https://www.hackerrank.com/challenges/direct-connections) | Hard | |
+| [Subsequence Weighting](https://www.hackerrank.com/challenges/subsequence-weighting) | Advanced | |
+| [Jim and the Skyscrapers](https://www.hackerrank.com/challenges/jim-and-the-skyscrapers) | Medium | |
+| [Palindromic Subsets](https://www.hackerrank.com/challenges/palindromic-subsets) | Hard | |
+| [Counting On A Tree](https://www.hackerrank.com/challenges/counting-on-a-tree) | Expert | |
+| [Polynomial Division](https://www.hackerrank.com/challenges/polynomial-division) | Hard |
+| [Costly Intervals](https://www.hackerrank.com/challenges/costly-intervals) | Hard |
+| [The Strange Function](https://www.hackerrank.com/challenges/the-strange-function) | Hard |
+| [Self-Driving Bus](https://www.hackerrank.com/challenges/self-driving-bus) | Advanced |
+| [Unique Colors](https://www.hackerrank.com/challenges/unique-colors) | Advanced |
+| [Fibonacci Numbers Tree](https://www.hackerrank.com/challenges/fibonacci-numbers-tree) | Expert |
+| [Pair Sums](https://www.hackerrank.com/challenges/pair-sums) | Expert |
+| [Functional Palindromes](https://www.hackerrank.com/challenges/functional-palindromes) | Advanced |
+| [Lazy White Falcon](https://www.hackerrank.com/challenges/lazy-white-falcon) | Hard |
+| [Ticket To Ride](https://www.hackerrank.com/challenges/ticket-to-ride) | Expert |
+| [Heavy Light White Falcon](https://www.hackerrank.com/challenges/heavy-light-white-falcon) | Hard |
+| [Sum of The Maximums](https://www.hackerrank.com/challenges/little-alexey-and-sum-of-maximums) | Advanced |
+| [Number Game On A Tree](https://www.hackerrank.com/challenges/number-game-on-a-tree) | Expert |
+| [Heavy Light 2 White Falcon](https://www.hackerrank.com/challenges/heavy-light-2-white-falcon) | Hard |
+| [Library Query](https://www.hackerrank.com/challenges/library-query) | Advanced |
+| [Starfleet](https://www.hackerrank.com/challenges/starfleet) | Advanced |
+| [Almost Equal - Advanced](https://www.hackerrank.com/challenges/almost-equal-advanced) | Expert |
+| [Almost Sorted Interval](https://www.hackerrank.com/challenges/almost-sorted-interval) | Expert |
+| [Burger Hapiness](https://www.hackerrank.com/challenges/burger-happiness) | Hard |
+| [Roy and Alpha Beta Trees](https://www.hackerrank.com/challenges/roy-and-alpha-beta-trees) | Hard |
+| [Coloring Tree](https://www.hackerrank.com/challenges/coloring-tree) | Hard |
+| [Recalling Early Days GP With Trees](https://www.hackerrank.com/challenges/recalling-early-days-gp-with-trees) | Hard |
+| [Swaps and Sums](https://www.hackerrank.com/challenges/swaps-and-sum) | Advanced |
+| [Arithmetic Progressions](https://www.hackerrank.com/challenges/arithmetic-progressions) | Advanced |
+| [Coolguy And Two Subsequences](https://www.hackerrank.com/challenges/coolguy-and-two-subsequences) | Advanced |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
