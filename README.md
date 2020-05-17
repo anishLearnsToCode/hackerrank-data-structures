@@ -107,6 +107,11 @@ problems in this domain are solved with the Java programming language.
 ## Queues
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
+| [Queue Using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks) | Medium | |
+| [Castle on The Grid](https://www.hackerrank.com/challenges/castle-on-the-grid) | Medium | |
+| [Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii) | Medium  | |
+| [Truck Hour](https://www.hackerrank.com/challenges/truck-tour) | Hard | |
+| [Queries with Fixed Length](https://www.hackerrank.com/challenges/queries-with-fixed-length) | Hard | |
 
 
 ## Heap 
