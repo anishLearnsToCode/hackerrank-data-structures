@@ -117,6 +117,10 @@ problems in this domain are solved with the Java programming language.
 ## Heap 
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
+| [QHEAP1](https://www.hackerrank.com/challenges/qheap1) | Easy | |
+| [Jessie and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies) | Easy | |
+| [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median) | Hard | |
+| [Minimum Average Wait Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time) | hard | |
 
 
 ## Disjoint Set
