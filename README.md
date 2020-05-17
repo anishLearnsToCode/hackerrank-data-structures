@@ -85,6 +85,9 @@ problems in this domain are solved with the Java programming language.
 ## Balanced Trees
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
+| [Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree) | Medium | |
+| [Array and Simple Queries](https://www.hackerrank.com/challenges/array-and-simple-queries) | Hard | |
+| [Median Updates](https://www.hackerrank.com/challenges/median) | Hard | |
 
 
 ## Stacks
