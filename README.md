@@ -93,6 +93,15 @@ problems in this domain are solved with the Java programming language.
 ## Stacks
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
+| [Maximum Element](https://www.hackerrank.com/challenges/maximum-element) | Easy | |
+| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) | Medium | |
+| [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks) | Easy | |
+| [Game of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks) | Medium | |
+| [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor) | Medium | |
+| [Waiter](https://www.hackerrank.com/challenges/waiter) | Medium | |
+| [Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle) | Medium | |
+| [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants) | Hard | |
+| [AND xor OR](https://www.hackerrank.com/challenges/and-xor-or) | Hard | |
 
 
 ## Queues
