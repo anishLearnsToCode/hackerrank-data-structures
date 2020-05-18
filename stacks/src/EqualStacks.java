@@ -79,7 +79,7 @@ class CylinderStack {
         height = 0;
     }
 
-    public void print(){
+    public void print() {
         for(int index = 0 ; index<stack.size() ; index++){
             System.out.print(stack.elementAt(index) + " ");
         }
