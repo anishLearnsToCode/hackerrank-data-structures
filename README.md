@@ -105,7 +105,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Stacks
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
-| [Maximum Element](https://www.hackerrank.com/challenges/maximum-element) | Easy | |
+| [Maximum Element](https://www.hackerrank.com/challenges/maximum-element) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/stacks/MaximumElement.java) |
 | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) | Medium | |
 | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks) | Easy | |
 | [Game of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks) | Medium | |
