@@ -37,6 +37,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 |--------|---------------------------|
 | [Algorithms](https://www.hackerrank.com/domains/algorithms) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-algorithms) |
 | [Java](https://www.hackerrank.com/domains/java) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-java) |
+| [Python](https://www.hackerrank.com/domains/python) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-python) |
 
 ## Sub Domains & Problems (+Solutions) in the Data Structures Domain
  
