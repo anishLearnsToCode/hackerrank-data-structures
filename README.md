@@ -36,36 +36,33 @@ I have also solved other domains on HackerRank that can be viewed at:
 | Domain | Solutions Repository Link |
 |--------|---------------------------|
 | [Algorithms](https://www.hackerrank.com/domains/algorithms) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-algorithms) |
-| [Data Structures](https://www.hackerrank.com/domains/data-structures) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-data-structures) |
-| [Mathematics](https://www.hackerrank.com/domains/mathematics) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-mathematics) |
 | [Java](https://www.hackerrank.com/domains/java) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-java) |
-| [SQL](https://www.hackerrank.com/domains/sql) |  |
 
 ## Sub Domains & Problems (+Solutions) in the Data Structures Domain
  
 ### Arrays 
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
-| [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | Easy | [Solution]() |
-| [2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array) | Easy | [Solution]() |
-| [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | Easy | [Solution]() |
-| [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | Easy | [Solution]() |
-| [Sparse Arrays](https://www.hackerrank.com/challenges/arrays-ds) | Medium | [Solution]() |
-| [Array Manipulation](https://www.hackerrank.com/challenges/crush) | Hard | [Solution]() |
+| [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | Easy | |
+| [2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array) | Easy | |
+| [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | Easy | |
+| [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | Easy | |
+| [Sparse Arrays](https://www.hackerrank.com/challenges/arrays-ds) | Medium | |
+| [Array Manipulation](https://www.hackerrank.com/challenges/crush) | Hard | |
 
 ### Linked Lists
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
-| [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | Easy | [Solution]() |
-| [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list) | Easy | [Solution]() |
-| [Insert a Node at the head of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list) | Easy | [Solution]() |
-| [Insert a Node at a specific position in a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list) | Easy | [Solution]() |
-| [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list) | Easy | [Solution]() |
+| [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | Easy | |
+| [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list) | Easy | |
+| [Insert a Node at the head of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list) | Easy | |
+| [Insert a Node at a specific position in a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list) | Easy | |
+| [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list) | Easy | |
 | [Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/Linked%20List/src/PrintInReverse.java) |
-| [Reverse a Linked List](https://www.hackerrank.com/challenges/reverse-a-linked-list) | Easy | [Solution]() |
+| [Reverse a Linked List](https://www.hackerrank.com/challenges/reverse-a-linked-list) | Easy | |
 | [Compare two Linked Lists](https://www.hackerrank.com/challenges/compare-two-linked-lists) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/Linked%20List/src/CompareLL.java) |
 | [Merge two sorted Linked Lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/Linked%20List/src/MergeSortedLL.java) |
-| [Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail) | Easy | [Solution]() |
+| [Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail) | Easy | |
 | [Delete Duplicate Value Nodes from a sorted Linked List](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/Linked%20List/src/RemoveDuplicateNodes.java) |
 | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/Linked%20List/src/CycleDetection.java) |
 | [Find Merge Points of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/Linked%20List/src/FindMergeNode.java) |
