@@ -81,7 +81,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Binary Search Tree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/BST_Insertion.java) |
 | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/TreeHuffmanDecoding.java) |
 | [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/LowestCommonAncestor.java) |
-| [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo) | Medium | |
+| [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/SwapNodes_Algo.java) |
 | [Is There a Binary Search Tree](https://www.hackerrank.com/challenges/is-binary-search-tree) | Medium | |
 | [Tree: Top View](https://www.hackerrank.com/challenges/tree-top-view) | Easy | |
 | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree) | Advanced | |
