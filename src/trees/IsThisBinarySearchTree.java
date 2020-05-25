@@ -1,4 +1,6 @@
-public class CheckBST {
+package trees;
+
+public class IsThisBinarySearchTree {
     public static void main(String[] args) {
         CustomTree<Integer> root = new CustomTree<>();
         root.input();
