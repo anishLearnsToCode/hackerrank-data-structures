@@ -104,7 +104,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
 | [Maximum Element](https://www.hackerrank.com/challenges/maximum-element) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/stacks/MaximumElement.java) |
-| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) | Medium |  |
+| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/stacks/BalancedBrackets.java) |
 | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/stacks/EqualStacks.java) |
 | [Game of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks) | Medium | |
 | [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor) | Medium | |
