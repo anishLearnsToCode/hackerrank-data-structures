@@ -108,7 +108,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/stacks/EqualStacks.java) |
 | [Game of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/stacks/GameOfTwoStacks.java) |
 | [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/stacks/SimpleTextEditor.java) |
-| [Waiter](https://www.hackerrank.com/challenges/waiter) | Medium | |
+| [Waiter](https://www.hackerrank.com/challenges/waiter) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/stacks/Waiter.java) |
 | [Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle) | Medium | |
 | [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants) | Hard | |
 | [AND xor OR](https://www.hackerrank.com/challenges/and-xor-or) | Hard | |
