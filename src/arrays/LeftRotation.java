@@ -5,22 +5,22 @@ import java.util.Scanner;
 public class LeftRotation {
 
     private static final Scanner SCANNER = new Scanner(System.in);
-    private static int array[];
+    private static int arr[];
 
     public static void main(String[] args) {
         int size = SCANNER.nextInt();
         int leftRotations = SCANNER.nextInt();
 
-        array = new int[size];
-        input(array);
+        arr = new int[size];
+        input(arr);
 
         rotate(leftRotations);
-        print(array);
+        print(arr);
     }
 
     private static void rotate(int leftRotations){
-        leftRotations = leftRotations % array.length;
-        int rightRotations = array.length - leftRotations;
+        leftRotations = leftRotations % arr.length;
+        int rightRotations = arr.length - leftRotations;
         int rotations = Math.min(leftRotations, rightRotations);
 
         if(rotations == leftRotations)
@@ -34,11 +34,11 @@ public class LeftRotation {
     }
 
     private static void leftRotate(){
-        int first = array[0];
-        for(int i=0 ; i<array.length-1 ; i++){
-            array[i] = array[i+1];
+        int first = arr[0];
+        for(int i=0 ; i<arr.length-1 ; i++){
+            arr[i] = arr[i+1];
         }
-        array[array.length-1] = first;
+        arr[arr.length-1] = first;
     }
 
     private static void rightRotate(int rotations){
@@ -46,11 +46,11 @@ public class LeftRotation {
     }
 
     private static void rightRotate(){
-        int last = array[array.length-1];
-        for(int i=array.length-1 ;i>0 ; i--){
-            array[i] = array[i-1];
+        int last = arr[arr.length-1];
+        for(int i=arr.length-1 ;i>0 ; i--){
+            arr[i] = arr[i-1];
         }
-        array[0] = last;
+        arr[0] = last;
     }
 
     private static void print(int arr[]){
