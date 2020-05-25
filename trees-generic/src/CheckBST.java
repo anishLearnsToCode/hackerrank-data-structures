@@ -1,6 +1,6 @@
 public class CheckBST {
     public static void main(String[] args) {
-        Tree<Integer> root = new Tree<>();
+        CustomTree<Integer> root = new CustomTree<>();
         root.input();
         root.print();
 
@@ -8,7 +8,7 @@ public class CheckBST {
         System.out.println(ans);
     }
 
-    private static boolean isBST(Tree<Integer> root, int minValue, int maxValue){
+    private static boolean isBST(CustomTree<Integer> root, int minValue, int maxValue){
         if(root == null)
             return true;
 

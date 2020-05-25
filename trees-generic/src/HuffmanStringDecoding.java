@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class HuffmanStringDecoding {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        Tree<Character> root = new Tree<>();
+        CustomTree<Character> root = new CustomTree<>();
         root.input();
         root.print();
 
@@ -12,9 +12,9 @@ public class HuffmanStringDecoding {
         System.out.println(huffmanStr);
     }
 
-    private static String huffmanString(Tree<Character> root, String binaryCode){
+    private static String huffmanString(CustomTree<Character> root, String binaryCode){
         String ans = "";
-        Tree<Character> temp = root;
+        CustomTree<Character> temp = root;
 
         for(int i=0 ; i<binaryCode.length() ; i++){
             if(binaryCode.charAt(i) == '0') {

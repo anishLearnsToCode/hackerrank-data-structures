@@ -1,17 +1,19 @@
+package trees;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-class Tree<T> {
+class CustomTree<T> {
     private Scanner s = new Scanner(System.in);
 
     T data;
     int frequency;
-    Tree<T> left;
-    Tree<T> right;
+    CustomTree<T> left;
+    CustomTree<T> right;
 
-    Tree(){}
-    Tree(T data){
+    CustomTree(){}
+    CustomTree(T data){
         this.data = data;
     }
 
@@ -19,7 +21,7 @@ class Tree<T> {
         input(this);
     }
 
-    private Tree input(Tree root){
+    private CustomTree input(CustomTree root){
         System.out.print("Enter Data : ");
         int data = s.nextInt();
 
@@ -27,8 +29,8 @@ class Tree<T> {
             root.data = data;
         else return null;
 
-        root.left = input(new Tree());
-        root.right = input(new Tree());
+        root.left = input(new CustomTree());
+        root.right = input(new CustomTree());
 
         return root;
     }
@@ -37,7 +39,7 @@ class Tree<T> {
         print(this);
     }
 
-    private void print(Tree root){
+    private void print(CustomTree root){
         if(root == null)
             return;
 

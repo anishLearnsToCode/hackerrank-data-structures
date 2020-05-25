@@ -73,29 +73,29 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Trees
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
-| [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/PreorderTraversal.java) |
-| [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/PostOrderTraversal.java) |
-| [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/InorderTraversal.java) |
-| [Tree: Height of Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/HeightOfBinaryTree.java) |
-| [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/LevelOrderTraversal.java) |
-| [Binary Search Tree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/BST_Insertion.java) |
-| [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/TreeHuffmanDecoding.java) |
-| [Binary Searcj Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) | Easy | |
+| [CustomTree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/PreorderTraversal.java) |
+| [CustomTree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/PostOrderTraversal.java) |
+| [CustomTree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/InorderTraversal.java) |
+| [CustomTree: Height of Binary CustomTree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/HeightOfBinaryTree.java) |
+| [CustomTree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/LevelOrderTraversal.java) |
+| [Binary Search CustomTree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/BST_Insertion.java) |
+| [CustomTree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/TreeHuffmanDecoding.java) |
+| [Binary Searcj CustomTree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) | Easy | |
 | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo) | Medium | |
-| [Is There a Binary Search Tree](https://www.hackerrank.com/challenges/is-binary-search-tree) | Medium | |
-| [Tree: Top View](https://www.hackerrank.com/challenges/tree-top-view) | Easy | |
-| [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree) | Advanced | |
-| [Square Ten Tree](https://www.hackerrank.com/challenges/square-ten-tree) | Hard ||
+| [Is There a Binary Search CustomTree](https://www.hackerrank.com/challenges/is-binary-search-tree) | Medium | |
+| [CustomTree: Top View](https://www.hackerrank.com/challenges/tree-top-view) | Easy | |
+| [Kitty's Calculations on a CustomTree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree) | Advanced | |
+| [Square Ten CustomTree](https://www.hackerrank.com/challenges/square-ten-tree) | Hard ||
 | [Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest) | Hard ||
 | [Jenny's Subtrees](https://www.hackerrank.com/challenges/jenny-subtrees) | Hard ||
-| [Tree Coordinates](https://www.hackerrank.com/challenges/tree-coordinates) | Expert ||
+| [CustomTree Coordinates](https://www.hackerrank.com/challenges/tree-coordinates) | Expert ||
 | [Array Pairs](https://www.hackerrank.com/challenges/array-pairs) | Advanced ||
 
 
 ### Balanced Trees
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
-| [Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree) | Medium | |
+| [Self Balancing CustomTree](https://www.hackerrank.com/challenges/self-balancing-tree) | Medium | |
 | [Array and Simple Queries](https://www.hackerrank.com/challenges/array-and-simple-queries) | Hard | |
 | [Median Updates](https://www.hackerrank.com/challenges/median) | Hard | |
 
@@ -137,7 +137,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Components In A Graph](https://www.hackerrank.com/challenges/components-in-graph) | Medium | |
-| [Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree) | Hard | |
+| [Kundu and CustomTree](https://www.hackerrank.com/challenges/kundu-and-tree) | Hard | |
 | [Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries) | Hard | |
 | [Merging Communities](https://www.hackerrank.com/challenges/merging-communities) | Hard | |
 
@@ -167,20 +167,20 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Subsequence Weighting](https://www.hackerrank.com/challenges/subsequence-weighting) | Advanced | |
 | [Jim and the Skyscrapers](https://www.hackerrank.com/challenges/jim-and-the-skyscrapers) | Medium | |
 | [Palindromic Subsets](https://www.hackerrank.com/challenges/palindromic-subsets) | Hard | |
-| [Counting On A Tree](https://www.hackerrank.com/challenges/counting-on-a-tree) | Expert | |
+| [Counting On A CustomTree](https://www.hackerrank.com/challenges/counting-on-a-tree) | Expert | |
 | [Polynomial Division](https://www.hackerrank.com/challenges/polynomial-division) | Hard |
 | [Costly Intervals](https://www.hackerrank.com/challenges/costly-intervals) | Hard |
 | [The Strange Function](https://www.hackerrank.com/challenges/the-strange-function) | Hard |
 | [Self-Driving Bus](https://www.hackerrank.com/challenges/self-driving-bus) | Advanced |
 | [Unique Colors](https://www.hackerrank.com/challenges/unique-colors) | Advanced |
-| [Fibonacci Numbers Tree](https://www.hackerrank.com/challenges/fibonacci-numbers-tree) | Expert |
+| [Fibonacci Numbers CustomTree](https://www.hackerrank.com/challenges/fibonacci-numbers-tree) | Expert |
 | [Pair Sums](https://www.hackerrank.com/challenges/pair-sums) | Expert |
 | [Functional Palindromes](https://www.hackerrank.com/challenges/functional-palindromes) | Advanced |
 | [Lazy White Falcon](https://www.hackerrank.com/challenges/lazy-white-falcon) | Hard |
 | [Ticket To Ride](https://www.hackerrank.com/challenges/ticket-to-ride) | Expert |
 | [Heavy Light White Falcon](https://www.hackerrank.com/challenges/heavy-light-white-falcon) | Hard |
 | [Sum of The Maximums](https://www.hackerrank.com/challenges/little-alexey-and-sum-of-maximums) | Advanced |
-| [Number Game On A Tree](https://www.hackerrank.com/challenges/number-game-on-a-tree) | Expert |
+| [Number Game On A CustomTree](https://www.hackerrank.com/challenges/number-game-on-a-tree) | Expert |
 | [Heavy Light 2 White Falcon](https://www.hackerrank.com/challenges/heavy-light-2-white-falcon) | Hard |
 | [Library Query](https://www.hackerrank.com/challenges/library-query) | Advanced |
 | [Starfleet](https://www.hackerrank.com/challenges/starfleet) | Advanced |
@@ -188,12 +188,12 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Almost Sorted Interval](https://www.hackerrank.com/challenges/almost-sorted-interval) | Expert |
 | [Burger Hapiness](https://www.hackerrank.com/challenges/burger-happiness) | Hard |
 | [Roy and Alpha Beta Trees](https://www.hackerrank.com/challenges/roy-and-alpha-beta-trees) | Hard |
-| [Coloring Tree](https://www.hackerrank.com/challenges/coloring-tree) | Hard |
+| [Coloring CustomTree](https://www.hackerrank.com/challenges/coloring-tree) | Hard |
 | [Recalling Early Days GP With Trees](https://www.hackerrank.com/challenges/recalling-early-days-gp-with-trees) | Hard |
 | [Swaps and Sums](https://www.hackerrank.com/challenges/swaps-and-sum) | Advanced |
 | [Arithmetic Progressions](https://www.hackerrank.com/challenges/arithmetic-progressions) | Advanced |
 | [Coolguy And Two Subsequences](https://www.hackerrank.com/challenges/coolguy-and-two-subsequences) | Advanced |
-| [White Falcon and Tree](https://www.hackerrank.com/challenges/white-falcon-and-tree) | Hard |
+| [White Falcon and CustomTree](https://www.hackerrank.com/challenges/white-falcon-and-tree) | Hard |
 | [Subtrees and Paths](https://www.hackerrank.com/challenges/subtrees-and-paths) | Advanced |
 | [Triplets](https://www.hackerrank.com/challenges/triplets) | Advanced |
 | [Beautiful Segments](https://www.hackerrank.com/challenges/beautiful-segments) | Expert | |
@@ -204,7 +204,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Jaggu Playing With Balloons](https://www.hackerrank.com/challenges/jagia-playing-with-numbers) | Advanced |
 | [Dynamic Summation](https://www.hackerrank.com/challenges/dynamic-summation) | Hard |
 | [Two Array Problem](https://www.hackerrank.com/challenges/weird-queries) | Hard | |
-| [Rooted Tree](https://www.hackerrank.com/challenges/rooted-tree) | Hard | |
+| [Rooted CustomTree](https://www.hackerrank.com/challenges/rooted-tree) | Hard | |
 | [The Crazy Helix](https://www.hackerrank.com/challenges/helix) | Advanced | |
 | [Network Administration](https://www.hackerrank.com/challenges/net-admin) | Hard | |
 | [Easy Addition](https://www.hackerrank.com/challenges/easy-addition) | Expert | |
