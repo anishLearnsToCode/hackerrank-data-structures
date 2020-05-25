@@ -73,22 +73,22 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Trees
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
-| [CustomTree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/PreorderTraversal.java) |
-| [CustomTree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/PostOrderTraversal.java) |
-| [CustomTree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/InorderTraversal.java) |
-| [CustomTree: Height of Binary CustomTree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/HeightOfBinaryTree.java) |
-| [CustomTree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/LevelOrderTraversal.java) |
-| [Binary Search CustomTree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/BST_Insertion.java) |
-| [CustomTree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/TreeHuffmanDecoding.java) |
-| [Binary Searcj CustomTree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/LowestCommonAncestor.java) |
+| [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/PreorderTraversal.java) |
+| [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/PostOrderTraversal.java) |
+| [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/InorderTraversal.java) |
+| [Tree: Height of Binary CustomTree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/HeightOfBinaryTree.java) |
+| [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/LevelOrderTraversal.java) |
+| [Binary Search Tree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/BST_Insertion.java) |
+| [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/TreeHuffmanDecoding.java) |
+| [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/LowestCommonAncestor.java) |
 | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo) | Medium | |
-| [Is There a Binary Search CustomTree](https://www.hackerrank.com/challenges/is-binary-search-tree) | Medium | |
+| [Is There a Binary Search Tree](https://www.hackerrank.com/challenges/is-binary-search-tree) | Medium | |
 | [CustomTree: Top View](https://www.hackerrank.com/challenges/tree-top-view) | Easy | |
-| [Kitty's Calculations on a CustomTree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree) | Advanced | |
-| [Square Ten CustomTree](https://www.hackerrank.com/challenges/square-ten-tree) | Hard ||
+| [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree) | Advanced | |
+| [Square Ten Tree](https://www.hackerrank.com/challenges/square-ten-tree) | Hard ||
 | [Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest) | Hard ||
 | [Jenny's Subtrees](https://www.hackerrank.com/challenges/jenny-subtrees) | Hard ||
-| [CustomTree Coordinates](https://www.hackerrank.com/challenges/tree-coordinates) | Expert ||
+| [Tree Coordinates](https://www.hackerrank.com/challenges/tree-coordinates) | Expert ||
 | [Array Pairs](https://www.hackerrank.com/challenges/array-pairs) | Advanced ||
 
 
