@@ -152,8 +152,8 @@ I have also solved other domains on HackerRank that can be viewed at:
 
 ### Trie
 | Problem | Difficulty Level | Solution Link |
-|---------|------------------|---------------|
-| [Contacts]() | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/trie/src/Contacts.java) |
+|---------|------------------|:-------------:|
+| [Contacts]() | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/trie/src/Contacts.java) |
 | [No Prefix Set](https://www.hackerrank.com/challenges/no-prefix-set) | Hard | |
 
 
