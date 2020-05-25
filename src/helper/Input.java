@@ -14,4 +14,20 @@ public class Input {
         }
         return data;
     }
+
+    public static int getLength() {
+        return SCANNER.nextInt();
+    }
+
+    public static int[] getArray() {
+        return getArray(getLength());
+    }
+
+    public static int[] getArray(int length) {
+        int[] array = new int[length];
+        for (int index = 0 ; index < array.length ; index++) {
+            array[index] = SCANNER.nextInt();
+        }
+        return array;
+    }
 }
