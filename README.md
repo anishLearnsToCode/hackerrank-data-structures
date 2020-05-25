@@ -44,7 +44,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Arrays 
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
-| [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | Easy | |
+| [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/arrays/ArraysDS.java) |
 | [2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array) | Easy | |
 | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | Easy | |
 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | Easy | |
