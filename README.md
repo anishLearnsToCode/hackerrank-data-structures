@@ -145,9 +145,9 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Multiple Choice 
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
-| [Data Structures MCQ1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees) | Multiple Choice Question | |
-| [Data Structures MCQ2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures) | Multiple Choice Question | |
-| [Data Structures MCQ3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1) | Multiple Choice Question | |
+| [Data Structures MCQ1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees) | Multiple Choice Question | [![Markdown](https://img.icons8.com/office/35/000000/markdown.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/mcq/Data%20Structure%20MCQ%201.md) |
+| [Data Structures MCQ2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures) | Multiple Choice Question | [![Markdown](https://img.icons8.com/office/35/000000/markdown.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/mcq/Data%20Structure%20MCQ%202.md) |
+| [Data Structures MCQ3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1) | Multiple Choice Question | [![Markdown](https://img.icons8.com/office/35/000000/markdown.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/mcq/Data%20Structure%20MCQ%203.md) |
 
 
 ### Trie

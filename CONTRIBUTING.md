@@ -42,11 +42,4 @@ For the icon link refer to the table below to obtain the link for a specific pro
 | Scala | ![Scala](https://img.icons8.com/dusk/35/000000/scala.png) | https://img.icons8.com/office/35/000000/ruby-programming-language.png |
 | PGH | ![PHP](https://img.icons8.com/officel/40/000000/php-logo.png) | https://img.icons8.com/officel/40/000000/php-logo.png |
 | Swift | ![Swift](https://img.icons8.com/fluent/40/000000/swift.png) | https://img.icons8.com/fluent/40/000000/swift.png |
-
-
-
-
-
-
-
-
+| Markdown | ![Markdown](https://img.icons8.com/office/35/000000/markdown.png) | https://img.icons8.com/office/35/000000/markdown.png |
