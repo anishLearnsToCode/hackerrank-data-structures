@@ -49,7 +49,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/arrays/DynamicArray.java) |
 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/arrays/LeftRotation.java) |
 | [Sparse Arrays](https://www.hackerrank.com/challenges/arrays-ds) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/arrays/SparseArrays.java) |
-| [Array Manipulation](https://www.hackerrank.com/challenges/crush) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/arrays/ArraysDS.java) |
+| [Array Manipulation](https://www.hackerrank.com/challenges/crush) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/arrays/ArrayManipulation.java) |
 
 ### Linked Lists
 | Problem | Difficulty Level | Solution Link |
