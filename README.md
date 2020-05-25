@@ -80,7 +80,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [CustomTree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/LevelOrderTraversal.java) |
 | [Binary Search CustomTree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/BST_Insertion.java) |
 | [CustomTree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/TreeHuffmanDecoding.java) |
-| [Binary Searcj CustomTree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) | Easy | |
+| [Binary Searcj CustomTree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/LowestCommonAncestor.java) |
 | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo) | Medium | |
 | [Is There a Binary Search CustomTree](https://www.hackerrank.com/challenges/is-binary-search-tree) | Medium | |
 | [CustomTree: Top View](https://www.hackerrank.com/challenges/tree-top-view) | Easy | |
