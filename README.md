@@ -54,7 +54,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Linked Lists
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
-| [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | Easy | |
+| [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/linkedlist/PrintElementsOfLinkedList.java) |
 | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list) | Easy | |
 | [Insert a Node at the head of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list) | Easy | |
 | [Insert a Node at a specific position in a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list) | Easy | |
