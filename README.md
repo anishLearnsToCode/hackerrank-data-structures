@@ -43,7 +43,7 @@ I have also solved other domains on HackerRank that can be viewed at:
  
 ### Arrays 
 | Problem | Difficulty Level | Solution Link |
-|---------|------------------|---------------|
+|---------|------------------|:-------------:|
 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/arrays/ArraysDS.java) |
 | [2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/arrays/TwoDArrays.java) |
 | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/arrays/DynamicArray.java) |
@@ -53,7 +53,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 
 ### Linked Lists
 | Problem | Difficulty Level | Solution Link |
-|---------|------------------|---------------|
+|---------|------------------|:-------------:|
 | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/linkedlist/PrintElementsOfLinkedList.java) |
 | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/linkedlist/InsertNodeAtTailOfLinkedList.java) |
 | [Insert a Node at the head of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/linkedlist/InsertNodeAtHeadOfLinkedList.java) |
