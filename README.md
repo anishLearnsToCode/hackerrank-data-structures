@@ -29,7 +29,10 @@ which consists of both
 and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 
 The Data Structures Domain is further Divided into the following sub-domain. All
-problems in this domain have been solved with the Java programming language.
+problems in this domain have been mainly solved with the Java programming language, but I 
+am looking for contributors to add solutions in this repository in other languages as well
+and to that effect anyonne can create a pull request for any problem below in their favorite 
+ programming language. See [Contributing Guidelines](CONTRIBUTING.md) here.
 
 I have also solved other domains on HackerRank that can be viewed at:
 

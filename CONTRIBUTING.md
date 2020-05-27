@@ -27,6 +27,14 @@ To add a logo in the [README](README.md) table simply add a link with an embedde
 [![Python](icon-link)](this link will be filled by the author if the pull request is accepted)
 ```
 
+## Style Guide
+We wish that other people an unerstand and learn from the cde that is given in this repository, 
+hence code that is legible, properly indented with good function names and variable names, with clear
+flow that makes understanding the algorithm easy will be highly appreciated.
+
+The submitted code must also pass all test cases of the given probelm on HackerRank (obviosuly 😉).
+Happy Coding 🐱‍👤 
+
 For the icon link refer to the table below to obtain the link for a specific programming language:
 
 | Programming Language | Icon | Icon Link|
