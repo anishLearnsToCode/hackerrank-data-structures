@@ -12,6 +12,16 @@ a programming language of your choice.
 Solve that question and make sure that all tests pass on HackerRank and then create a pull request with the 
 added solution and updated readme.
   
+  
+## Style Guide
+We wish that other people an unerstand and learn from the cde that is given in this repository, 
+hence code that is legible, properly indented with good function names and variable names, with clear
+flow that makes understanding the algorithm easy will be highly appreciated.
+
+The submitted code must also pass all test cases of the given probelm on HackerRank (obviosuly 😉).
+Happy Coding 🐱‍👤   
+  
+  
 ## Pull Request Process
 
 1. Fork this repository to your github account and then clone your forked repository to your machine.
@@ -26,14 +36,6 @@ To add a logo in the [README](README.md) table simply add a link with an embedde
 ```markdown
 [![Python](icon-link)](this link will be filled by the author if the pull request is accepted)
 ```
-
-## Style Guide
-We wish that other people an unerstand and learn from the cde that is given in this repository, 
-hence code that is legible, properly indented with good function names and variable names, with clear
-flow that makes understanding the algorithm easy will be highly appreciated.
-
-The submitted code must also pass all test cases of the given probelm on HackerRank (obviosuly 😉).
-Happy Coding 🐱‍👤 
 
 For the icon link refer to the table below to obtain the link for a specific programming language:
 
