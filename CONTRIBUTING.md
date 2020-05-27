@@ -1,12 +1,12 @@
 # Contributing Guidelines
 
-This projectt aims to create a common source fro all algorithms quetions on hackerrank and values every single contribution
-made by the community.
+This project aims to create a common source for all Data Structure questions on HackerRank and values every single 
+contribution made by the community.
 
-We aim to solve all questions in the HackerRank Algorithms  domain in as many languages as possible to show the 
+We aim to solve all questions in the HackerRank Data Structures domain in as many languages as possible to show the 
 different code styles and approaches that can be used to solve the same problem.
  
-Contributing is very simple, simply identify a quetion from the [README](README.md) file that has yet to be solved in
+Contributing is very simple. Simply identify a question from the [README](README.md) file that has yet to be solved in
 a programming language of your choice. 
 
 Solve that question and make sure that all tests pass on HackerRank and then create a pull request with the 
@@ -14,11 +14,11 @@ added solution and updated readme.
   
   
 ## Style Guide
-We wish that other people an unerstand and learn from the cde that is given in this repository, 
+We wish that other people and understand and learn from the cde that is given in this repository, 
 hence code that is legible, properly indented with good function names and variable names, with clear
 flow that makes understanding the algorithm easy will be highly appreciated.
 
-The submitted code must also pass all test cases of the given probelm on HackerRank (obviosuly 😉).
+The submitted code must also pass all test cases of the given problem on HackerRank (obviously 😉).
 Happy Coding 🐱‍👤   
   
   
