@@ -25,11 +25,12 @@ Happy Coding 🐱‍👤
 ## Pull Request Process
 
 1. Fork this repository to your github account and then clone your forked repository to your machine.
-2. Say you solve some problem called __cars-and-trucks__ in the _Implementation_ sub domain on 
-    Hackerrank using your favorite programming language, say Python then simple add a new file called 
-    `cars-and-trucks.py` in the `implimentation` directory. 
+2. Say you solve some problem called __Rita & Stacks__ in the _Stacks_ sub domain on 
+    HackerRank using your favorite programming language, say Python then simple add a new file called 
+    `rita-and-stacks.py` in the `stacks` directory. 
 3. In the [README](README.md) file, add a Python logo along with an empty link.
 4. Updating the link for the solution will be done by the Project maintainers (aka. [anishLearnsToCode]())
+
 
 ## Programming Language Logos
 To add a logo in the [README](README.md) table simply add a link with an embedded picture as 
