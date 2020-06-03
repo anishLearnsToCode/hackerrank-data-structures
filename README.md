@@ -132,7 +132,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 |---------|------------------|---------------|
 | [QHEAP1](https://www.hackerrank.com/challenges/qheap1) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/heap/QHEAP1.java) |
 | [Jessie and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/heap/JesseAndCookies.java) |
-| [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median) | Hard | |
+| [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/heap/FindTheRunningMedian.java) |
 | [Minimum Average Wait Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time) | hard | |
 
 
