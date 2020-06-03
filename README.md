@@ -130,7 +130,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Heap 
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
-| [QHEAP1](https://www.hackerrank.com/challenges/qheap1) | Easy | |
+| [QHEAP1](https://www.hackerrank.com/challenges/qheap1) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/heap/QHEAP1.java) |
 | [Jessie and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies) | Easy | |
 | [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median) | Hard | |
 | [Minimum Average Wait Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time) | hard | |
