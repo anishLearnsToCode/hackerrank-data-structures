@@ -121,7 +121,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Queue Using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/queues/QueueUsingTwoStacks.java) |
-| [Castle on The Grid](https://www.hackerrank.com/challenges/castle-on-the-grid) | Medium | |
+| [Castle on The Grid](https://www.hackerrank.com/challenges/castle-on-the-grid) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)]() |
 | [Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii) | Medium  | |
 | [Truck Hour](https://www.hackerrank.com/challenges/truck-tour) | Hard | |
 | [Queries with Fixed Length](https://www.hackerrank.com/challenges/queries-with-fixed-length) | Hard | |
