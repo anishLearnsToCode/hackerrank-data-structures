@@ -148,7 +148,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Disjoint Set
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
-| [Components In A Graph](https://www.hackerrank.com/challenges/components-in-graph) | Medium | |
+| [Components In A Graph](https://www.hackerrank.com/challenges/components-in-graph) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/disjoint_set/ComponentsInAGraph.java) |
 | [Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree) | Hard | |
 | [Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries) | Hard | |
 | [Merging Communities](https://www.hackerrank.com/challenges/merging-communities) | Hard | |
