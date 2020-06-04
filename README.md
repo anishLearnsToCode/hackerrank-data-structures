@@ -98,7 +98,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Tree: Top View](https://www.hackerrank.com/challenges/tree-top-view) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/TreesTopView.java) |
 | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree) | Advanced | [![C++](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/KitysCalculationOnATree.cpp) |
 | [Square Ten Tree](https://www.hackerrank.com/challenges/square-ten-tree) | Hard |[![C++](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/SquareTenTree.cpp) |
-| [Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest) | Hard ||
+| [Balanced Forest](https://www.hackerrank.com/challenges/balanced-forest) | Hard | [![Python](https://img.icons8.com/color/35/000000/python.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/Python/trees/balanced-forest.py) |
 | [Jenny's Subtrees](https://www.hackerrank.com/challenges/jenny-subtrees) | Hard ||
 | [Tree Coordinates](https://www.hackerrank.com/challenges/tree-coordinates) | Expert ||
 | [Array Pairs](https://www.hackerrank.com/challenges/array-pairs) | Advanced ||
