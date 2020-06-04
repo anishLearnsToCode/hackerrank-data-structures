@@ -2,9 +2,10 @@
 HackerRank is an online platform that offers programmers the ability to test their
 sills, practice and learn something new. 
 
-The problem sets on HackerRank are divided in Domains and the following are the domains
-on HackerRank:
+The problem sets on HackerRank are divided in Domains & Tutorials, and the following are the domains & 
+tutorials on HackerRank:
 
+## Domains
 1. [Algorithms](https://www.hackerrank.com/domains/algorithms)
 2. [Data Structures](https://www.hackerrank.com/domains/data-structures)
 3. [Mathematics](https://www.hackerrank.com/domains/mathematics) 
@@ -19,6 +20,13 @@ on HackerRank:
 12. [SQL](https://www.hackerrank.com/domains/sql)
 13. [Databases](https://www.hackerrank.com/domains/databases)
 14. [Regex](https://www.hackerrank.com/domains/regex)
+
+## Tutorials
+1. [Interview Preparation Kit](https://www.hackerrank.com/interview) 
+2. [Learn To Code in 30 Days](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
+3. [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+4. [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) 
+
 
 This repository contains solutions to the Data Structures domain part of HackerRank. My
 HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
@@ -41,6 +49,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Algorithms](https://www.hackerrank.com/domains/algorithms) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-algorithms) |
 | [Java](https://www.hackerrank.com/domains/java) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-java) |
 | [Python](https://www.hackerrank.com/domains/python) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-python) |
+| [Interview Preparation Kit](https://www.hackerrank.com/interview) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit) |
 
 ## Sub Domains & Problems (+Solutions) in the Data Structures Domain
  
