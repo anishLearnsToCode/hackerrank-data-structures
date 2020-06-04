@@ -20,7 +20,7 @@ public class MinimumAverageWaitingTime {
 
     private static long minimumAverageWaitingTime(Queue<Customer> customers) {
         Queue<Customer> processQueue = new PriorityQueue<>(
-                Comparator.comparing(Customer::getProcessingTime).thenComparing(Customer::getArrivalTime)
+                Comparator.comparing(Customer::getProcessingTime)
         );
         processQueue.add(new Customer(0, 0));
 

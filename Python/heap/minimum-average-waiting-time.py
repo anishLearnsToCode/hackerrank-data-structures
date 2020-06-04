@@ -9,6 +9,7 @@ for _ in range(N):
     tasks.append((arrival, cook_time))
 
 tasks.sort(reverse=True)
+print(tasks)
 
 pq = []
 time_waiting = 0
