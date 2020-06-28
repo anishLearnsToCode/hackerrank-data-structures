@@ -1,34 +1,41 @@
 # HackerRank Data Structures Solutions
 HackerRank is an online platform that offers programmers the ability to test their
-sills, practice and learn something new. 
+sills, practice and learn something new. The problem sets on HackerRank are divided in Domains & Tutorials, 
+and the following are the domains & tutorials on HackerRank:
 
-The problem sets on HackerRank are divided in Domains & Tutorials, and the following are the domains & 
-tutorials on HackerRank:
+<details>
+    <summary><b>Domains</b></summary>
+    <ul>
+        <li><a href="https://www.hackerrank.com/domains/algorithms">Algorithms</a></li>
+        <li><a href="https://www.hackerrank.com/domains/data-structures">Data Structures</a></li>
+        <li><a href="https://www.hackerrank.com/domains/mathematics">Mathematics</a></li>
+        <li><a href="https://www.hackerrank.com/domains/c">C</a></li>
+        <li><a href="https://www.hackerrank.com/domains/cpp">C++</a></li>
+        <li><a href="https://www.hackerrank.com/domains/java">Java</a></li>
+        <li><a href="https://www.hackerrank.com/domains/python">Python</a></li>
+        <li><a href="https://www.hackerrank.com/domains/ruby">Ruby</a></li>
+        <li><a href="https://www.hackerrank.com/domains/shell">Linux Shell</a></li>
+        <li><a href="https://www.hackerrank.com/domains/fp">Functional Programming</a></li>
+        <li><a href="https://www.hackerrank.com/domains/ai">Artificial Intelligence</a></li>
+        <li><a href="https://www.hackerrank.com/domains/sql">SQL</a></li>
+        <li><a href="https://www.hackerrank.com/domains/databases">Databases</a></li>
+        <li><a href="https://www.hackerrank.com/domains/regex">Regex</a></li>
+    </ul>
+</details>
 
-## Domains
-1. [Algorithms](https://www.hackerrank.com/domains/algorithms)
-2. [Data Structures](https://www.hackerrank.com/domains/data-structures)
-3. [Mathematics](https://www.hackerrank.com/domains/mathematics) 
-4. [C](https://www.hackerrank.com/domains/c)
-5. [C++](https://www.hackerrank.com/domains/cpp)
-6. [Java](https://www.hackerrank.com/domains/java)
-7. [Python](https://www.hackerrank.com/domains/python)
-8. [Ruby](https://www.hackerrank.com/domains/ruby)
-9. [Linux Shell](https://www.hackerrank.com/domains/shell)
-10. [Functional Programming](https://www.hackerrank.com/domains/fp)
-11. [Artificial Intelligence](https://www.hackerrank.com/domains/ai)
-12. [SQL](https://www.hackerrank.com/domains/sql)
-13. [Databases](https://www.hackerrank.com/domains/databases)
-14. [Regex](https://www.hackerrank.com/domains/regex)
-
-## Tutorials
-1. [Interview Preparation Kit](https://www.hackerrank.com/interview) 
-2. [Learn To Code in 30 Days](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
-3. [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
-4. [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) 
+<details>
+    <summary><b>Tutorials</b></summary>
+    <ul>
+        <li><a href="https://www.hackerrank.com/interview">Interview Preparation Kit</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">30 Days of Code</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-statistics">10 Days of Statistics</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-javascript">10 Days of JavaScript</a></li>
+    </ul>
+</details>
 
 
-This repository contains solutions to the Data Structures domain part of HackerRank. My
+This repository contains solutions to the 
+[Data Structures domain](https://www.hackerrank.com/domains/data-structures) part of HackerRank. My
 HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
 
 The Data Structures Domain Falls under a broader Problem Solving Skill Set in HackerRank
@@ -52,8 +59,20 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Interview Preparation Kit](https://www.hackerrank.com/interview) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit) |
 
 ## Sub Domains & Problems (+Solutions) in the Data Structures Domain
+Quick Links ⚡ : 
+[Arrays](#arrays-) |
+[Linked Lists](#linked-lists-) |
+[Trees](#trees-) |
+[Balanced Trees](#balanced-trees-) |
+[Stacks](#stacks-) |
+[Queues](#queues-) |
+[Heap](#heap-) |
+[Disjoint Set](#disjoint-set-) |
+[Multiple Choice](#multiple-choice-) |
+[Trie](#trie-) |
+[Advanced](#advanced-) |
  
-### Arrays 
+### Arrays [👆](#sub-domains--problems-solutions-in-the-data-structures-domain)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/arrays/ArraysDS.java) |
@@ -63,7 +82,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Sparse Arrays](https://www.hackerrank.com/challenges/arrays-ds) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/arrays/SparseArrays.java) |
 | [Array Manipulation](https://www.hackerrank.com/challenges/crush) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/arrays/ArrayManipulation.java) |
 
-### Linked Lists
+### Linked Lists [👆](#sub-domains--problems-solutions-in-the-data-structures-domain)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
 | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/linkedlist/PrintElementsOfLinkedList.java) |
@@ -82,7 +101,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Inserting a Node Into a Sorted Double Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/linkedlist/InsertANodeInSortedDoublyLinkedList.java) |
 | [Reverse a Doubly Linked List](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/linkedlist/ReverseDoublyLinkedList.java) |
 
-### Trees
+### Trees [👆](#sub-domains--problems-solutions-in-the-data-structures-domain)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
 | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trees/PreorderTraversal.java) |
@@ -104,7 +123,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Array Pairs](https://www.hackerrank.com/challenges/array-pairs) | Advanced ||
 
 
-### Balanced Trees
+### Balanced Trees [👆](#sub-domains--problems-solutions-in-the-data-structures-domain)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree) | Medium | |
@@ -112,7 +131,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Median Updates](https://www.hackerrank.com/challenges/median) | Hard | |
 
 
-### Stacks
+### Stacks [👆](#sub-domains--problems-solutions-in-the-data-structures-domain)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
 | [Maximum Element](https://www.hackerrank.com/challenges/maximum-element) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/stacks/MaximumElement.java) |
@@ -126,7 +145,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [AND xor OR](https://www.hackerrank.com/challenges/and-xor-or) | Hard | |
 
 
-### Queues
+### Queues [👆](#sub-domains--problems-solutions-in-the-data-structures-domain)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Queue Using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/queues/QueueUsingTwoStacks.java) |
@@ -136,7 +155,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Queries with Fixed Length](https://www.hackerrank.com/challenges/queries-with-fixed-length) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/queues/QueriesWithFixedLength.java) |
 
 
-### Heap 
+### Heap [👆](#sub-domains--problems-solutions-in-the-data-structures-domain)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [QHEAP1](https://www.hackerrank.com/challenges/qheap1) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/heap/QHEAP1.java) |
@@ -145,7 +164,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Minimum Average Wait Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time) | Hard | [![Python](https://img.icons8.com/color/35/000000/python.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/Python/heap/minimum-average-waiting-time.py) |
 
 
-### Disjoint Set
+### Disjoint Set [👆](#sub-domains--problems-solutions-in-the-data-structures-domain)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Components In A Graph](https://www.hackerrank.com/challenges/components-in-graph) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/disjoint_set/ComponentsInAGraph.java) |
@@ -154,7 +173,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Merging Communities](https://www.hackerrank.com/challenges/merging-communities) | Hard | |
 
 
-### Multiple Choice 
+### Multiple Choice [👆](#sub-domains--problems-solutions-in-the-data-structures-domain)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
 | [Data Structures MCQ1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees) | Multiple Choice Question | [![Markdown](https://img.icons8.com/office/35/000000/markdown.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/mcq/Data%20Structure%20MCQ%201.md) |
@@ -162,14 +181,14 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Data Structures MCQ3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1) | Multiple Choice Question | [![Markdown](https://img.icons8.com/office/35/000000/markdown.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/mcq/Data%20Structure%20MCQ%203.md) |
 
 
-### Trie
+### Trie [👆](#sub-domains--problems-solutions-in-the-data-structures-domain)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
 | [Contacts]() | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/trie/Contacts.java) |
 | [No Prefix Set](https://www.hackerrank.com/challenges/no-prefix-set) | Hard | |
 
 
-### Advanced
+### Advanced [👆](#sub-domains--problems-solutions-in-the-data-structures-domain)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|---------------|
 | [Kindergarten Adventures](https://www.hackerrank.com/challenges/kindergarten-adventures) | Medium | |
