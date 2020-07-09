@@ -1,4 +1,12 @@
 # HackerRank Data Structures Solutions
+
+![HitCount](http://hits.dwyl.com/anishLearnsToCode/hackerrank-data-structures.svg)
+![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)
+![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
+![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-<60%25-1abc9c.svg)
+[![Generic badge](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
+
 HackerRank is an online platform that offers programmers the ability to test their
 sills, practice and learn something new. The problem sets on HackerRank are divided in Domains & Tutorials, 
 and the following are the domains & tutorials on HackerRank:
