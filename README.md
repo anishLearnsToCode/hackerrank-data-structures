@@ -6,7 +6,7 @@
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-<60%25-1abc9c.svg)
 [![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![hackerrank-java](https://img.shields.io/badge/hackerrank-java-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-java)
 [![hackerrank-python](https://img.shields.io/badge/hackerrank-python-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-python)
 [![hackerrank-algo](https://img.shields.io/badge/hackerrank-algorithms-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-algorithms)
